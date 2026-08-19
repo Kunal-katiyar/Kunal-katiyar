@@ -28,7 +28,7 @@ I'm Kunal, a first-year computer science student at the University of Texas at A
   - Employs a modern, easy-to-read UI to ensure that users are comfortable and can navigate the site easily.
 
 
-## Skills
+## 💻 Skills
 
 * **Python:**
   * Fluent in complete Python syntax
