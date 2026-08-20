@@ -31,7 +31,7 @@ I'm Kunal, a first-year computer science student at the University of Texas at A
 * [**resource-hub-design**](https://github.com/Kunal-katiyar/resource-hub-design): A static community resource hub website that allows users to browse, create, and save events and resources in their community.
   * Utilizes TailwindCSS's mobile-first design to develop an experience that works seamlessly on both mobile and desktop devices.
   * Uses Vue/Nuxt.js in order to rapidly load the static site content.
-  * Uses a modern, clean UI, with easy-to-access navigation links, a chatbot for even easier navigation, search filters for resources, and more.
+  * Uses a clean-structured UI, with easy-to-access navigation links, a chatbot for even easier navigation, search filters for resources, and more.
  
 
 ## 💻 Skills
