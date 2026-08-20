@@ -9,7 +9,7 @@ I'm Kunal, a first-year computer science student at the University of Texas at A
 * [**CE Planner**](https://github.com/Kunal-katiyar/CEPlanner): A React.js/Node.js website that automatically generates a college application planner inside of the user's Google Drive account, complete with essays and deadlines.
   * Uses parsed data from the internet (that I compiled myself).
   * Will autofill essays into an organized Google Doc, and place all essays in a Google Sheet for easy tracking
-
+  * Uses React.js to account for the many repeated blocks of items (ex: colleges, search results) that will be needed
 
 - **ScreenTimer**: An iOS/Swift mobile app that allows users to set custom, on-demand app restriction timers for themselves.
   - Supports Pomodoro and standard timers, as well as indefinite periods that can all be turned off manually
