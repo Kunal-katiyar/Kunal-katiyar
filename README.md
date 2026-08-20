@@ -12,7 +12,8 @@ I'm Kunal, a first-year computer science student at the University of Texas at A
 
 
 - **ScreenTimer**: An iOS/Swift mobile app that allows users to set custom, on-demand app restriction timers for themselves.
-  - Supports Pomodoro and standard timers, as well as custom presets for easy access to common sessions.
+  - Supports Pomodoro and standard timers, as well as indefinite periods that can all be turned off manually
+  - Supports presets to give easy access to common timers and app restrictions
  
  
 ### ✅ Projects I've completed:
@@ -27,6 +28,11 @@ I'm Kunal, a first-year computer science student at the University of Texas at A
   - Sends emails via secure SMTP for verification and notification of changes.
   - Employs a modern, easy-to-read UI to ensure that users are comfortable and can navigate the site easily.
 
+* [**resource-hub-design**](https://github.com/Kunal-katiyar/resource-hub-design): A static community resource hub website that allows users to browse, create, and save events and resources in their community.
+  * Utilizes TailwindCSS's mobile-first design to develop an experience that works seamlessly on both mobile and desktop devices.
+  * Uses Vue/Nuxt.js in order to rapidly load the static site content.
+  * Uses a modern, clean UI, with easy-to-access navigation links, a chatbot for even easier navigation, search filters for resources, and more.
+ 
 
 ## 💻 Skills
 
